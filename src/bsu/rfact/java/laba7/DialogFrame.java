@@ -1,19 +1,17 @@
 package bsu.rfact.java.laba7;
 
-public class DialogFrame {
-    import javax.swing.*;
+import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
-import java.net.InetSocketAddress;
-import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.UnknownHostException;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+
+
+
+
 
 
 
@@ -124,4 +122,4 @@ import java.util.regex.Pattern;
         }
 
     }
-}
+
